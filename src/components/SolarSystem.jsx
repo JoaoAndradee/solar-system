@@ -8,4 +8,4 @@ class SolarSystem extends React.Component {
   }
 }
 
-module.exports = SolarSystem;
+export default SolarSystem;
